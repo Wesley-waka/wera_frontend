@@ -1,0 +1,44 @@
+ .admin-background{
+   background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0.95, 1), #0D2644), url('/public/images/admin-view.jpeg');
+   background-size: cover;
+         
+ }
+ .admin-application-picture{
+  background-image: url('/public/images/application-picture.avif');
+ }
+ .admin-employer-picture {
+   background-image: url('/public/images/building.avif');
+ }
+ .admin-job-picture {
+   background-image: url('/public/images/vacancy-chair.avif');
+ }
+ .admin-jobseeker-picture {
+   background-image: url('/public/images/jobseeker-illustration.avif');
+ }
+ .dashboard-main{
+  min-height:100vh;
+  background: #031524
+ }
+ .dashboard-row{
+  background:#68091de6
+ }
+ .btn-link {
+    text-decoration: none;
+    background-color: inherit;
+    border:none;
+    padding: 5px 5px;
+    margin: 0;
+    color: black;
+ }
+ .btn-link:hover{
+  text-decoration: none;
+  color: black;
+ }
+ .logo-title{
+  text-decoration: none;
+  color: black;
+ }
+ .logo-title:hover{
+  text-decoration: none;
+  color: black;
+ }

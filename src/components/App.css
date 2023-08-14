@@ -1,0 +1,16 @@
+/* sign in left image size */
+.bg-image{
+  height: 90vh; 
+  border-radius: 10px;
+}
+.bg-image img{
+  height: 100%;
+  width: 100%;
+  object-fit: cover;
+  object-position: -250px 100%;
+}
+.theme-blue{
+  background-color: #0D2644;
+}
+
+
